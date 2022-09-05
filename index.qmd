@@ -1,14 +1,21 @@
 ---
-title: "ETC5523 Blog Assessment"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+engine: knitr
+format: 
+  html:
+    page-layout: full
 ---
 
+```{css}
+#| echo: false
 
+body, html {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+```
+
+<div class = "container">
+  <img id = "home" src="images/index.jpg">
+  <div class = "centered">Welcome to my website</div>
+</div>

@@ -1,13 +1,22 @@
 ---
-title: "About"
-image: profile.jpg
+title: "Krisanat Anukarnsakulchularp"
+image: images/profile.png
 about:
-  template: jolla
+  template: solana
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
-
+      href: https://github.com/KrisanatA
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+My name is Krisanat Anukarnsakulchularp, or you can call me Otto. I was born in Thailand but moved to New Zealand in 2013 to study aboard.  
+
+## Education
+
+**Bachelor of Actuarial Science** | Melbourne, Australia
+
+Monash University | 2018 - 2021
+
+**Master of Business Analytics** | Melbourne, Australia
+
+Monash University | 2022 - Present

@@ -1,4 +1,29 @@
-/* css styles */
-.navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
+
+#home {
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0.7;
+  border-radius: 25px;
+  border: 4px solid white;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 60px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-transform: uppercase;
+  white-space: nowrap;
+  margin: 0;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
