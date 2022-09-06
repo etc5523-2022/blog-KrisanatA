@@ -16,6 +16,8 @@ website:
     right:
       - icon: github
         href: https://github.com/KrisanatA
+      - icon: linkedin
+        href: https://au.linkedin.com/in/kritsanat-anu
 format:
   html:
     theme: solar
