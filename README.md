@@ -1,6 +1,6 @@
 
 # ETC5523 Blog Assessment
 
-* This is a **template** for the ETC5523 Blog Assessment. 
-* The author of this blog is **Emi Tanaka**.
-* The URL for this blog is [https://etc5523-2022.github.io/blog-template/](https://etc5523-2022.github.io/blog-template/)
+* This is a  ETC5523 Blog Assessment. 
+* The author of this blog is **Krisanat Anukarnsakulchularp**.
+* The URL for this blog is [http://etc5523-2022.github.io/blog-KrisanatA/](http://etc5523-2022.github.io/blog-KrisanatA/)
